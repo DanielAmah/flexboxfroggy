@@ -1,1 +1,1 @@
- main: game.js
+web: node server.js

@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "A game for learning CSS flexbox",
   "main": "game.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "animate.css": "^3.4.0",
+    "express": "^4.16.2",
     "jquery": "^3.3.1"
   },
   "devDependencies": {},
