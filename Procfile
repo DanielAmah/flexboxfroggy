@@ -1,1 +1,1 @@
-web: node js/game.js
+ main: game.js
